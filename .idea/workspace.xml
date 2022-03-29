@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80c08498-650f-47f0-853b-8dfcdb5ac6c3" name="Default Changelist" comment="." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1fLo0yQqlVrVdlqch7uEEQXzlf7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.5344828" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/customerSales" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/ergemp/training/spark" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/ergemp/training/spark/sourceExamples" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.ergemp.training.spark.jdbcRDD.job" />
+      <recent name="org.ergemp.training.spark.streaming.transformation" />
+      <recent name="org.ergemp.training.spark.sql.session.fileIO" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/airlines" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.KafkaProcessorExample">
+    <configuration name="Example01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ergemp.training.spark.jdbcRDD.job.Example01" />
+      <module name="spark_training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ergemp.training.spark.jdbcRDD.job.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ergemp.training.spark.jdbcRDD.job.Example02" />
+      <module name="spark_training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ergemp.training.spark.jdbcRDD.job.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaProcessorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ergemp.training.spark.streaming.kafkaStreamExamples.KafkaProcessorExample" />
+      <module name="spark_training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ergemp.training.spark.streaming.kafkaStreamExamples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ergemp.training.spark.rdd.transformations.pairRDDFunctions.MapExample" />
+      <module name="spark_training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ergemp.training.spark.rdd.transformations.pairRDDFunctions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadTextFileExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ergemp.training.spark.rdd.IO.ReadTextFileExample" />
+      <module name="spark_training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ergemp.training.spark.rdd.IO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KafkaProcessorExample" />
+        <item itemvalue="Application.MapExample" />
+        <item itemvalue="Application.ReadTextFileExample" />
+        <item itemvalue="Application.Example02" />
+        <item itemvalue="Application.Example01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80c08498-650f-47f0-853b-8dfcdb5ac6c3" name="Default Changelist" comment="" />
+      <created>1575379419830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575379419830</updated>
+    </task>
+    <task id="LOCAL-00001" summary="project restructure">
+      <created>1581598184046</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581598184046</updated>
+    </task>
+    <task id="LOCAL-00002" summary="spark sql session fileIO options added, json, parquet and csv">
+      <created>1581668220179</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581668220179</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new examples added airpots.dat file">
+      <created>1581678151476</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581678151476</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new streaming examples added">
+      <created>1581872884908</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581872884908</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new streaming examples added">
+      <created>1581918386912</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1581918386912</updated>
+    </task>
+    <task id="LOCAL-00006" summary="new streaming examples added">
+      <created>1582026271572</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1582026271572</updated>
+    </task>
+    <task id="LOCAL-00007" summary="new streaming examples added">
+      <created>1582043214817</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1582043214817</updated>
+    </task>
+    <task id="LOCAL-00008" summary="windowed streaming examples added">
+      <created>1582058788983</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1582058788983</updated>
+    </task>
+    <task id="LOCAL-00009" summary="windowed streaming examples added">
+      <created>1582058918734</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1582058918734</updated>
+    </task>
+    <task id="LOCAL-00010" summary="dataframe, dataset, spark sql examples added">
+      <created>1582907744359</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1582907744359</updated>
+    </task>
+    <task id="LOCAL-00011" summary="dataframe, dataset, spark sql examples added">
+      <created>1584519444566</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1584519444566</updated>
+    </task>
+    <task id="LOCAL-00012" summary="jdbcRDD examples added">
+      <created>1584905449016</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1584905449016</updated>
+    </task>
+    <task id="LOCAL-00013" summary="structured streaming examples added">
+      <created>1585052739599</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1585052739600</updated>
+    </task>
+    <task id="LOCAL-00014" summary="structured streaming examples added">
+      <created>1594125063494</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1594125063494</updated>
+    </task>
+    <task id="LOCAL-00015" summary="join examples added to spark sql">
+      <created>1594129067344</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1594129067344</updated>
+    </task>
+    <task id="LOCAL-00016" summary=".">
+      <created>1596316463573</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1596316463573</updated>
+    </task>
+    <task id="LOCAL-00017" summary=".">
+      <created>1596316845427</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1596316845427</updated>
+    </task>
+    <task id="LOCAL-00018" summary="workshop productSalesExample added">
+      <created>1604484545161</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1604484545161</updated>
+    </task>
+    <task id="LOCAL-00019" summary="jdbcrdd examples added">
+      <created>1604498629854</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1604498629854</updated>
+    </task>
+    <task id="LOCAL-00020" summary=".">
+      <created>1648579585020</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1648579585020</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="project restructure" />
+    <MESSAGE value="spark sql session fileIO options added, json, parquet and csv" />
+    <MESSAGE value="new examples added airpots.dat file" />
+    <MESSAGE value="new streaming examples added" />
+    <MESSAGE value="windowed streaming examples added" />
+    <MESSAGE value="dataframe, dataset, spark sql examples added" />
+    <MESSAGE value="jdbcRDD examples added" />
+    <MESSAGE value="structured streaming examples added" />
+    <MESSAGE value="join examples added to spark sql" />
+    <MESSAGE value="workshop productSalesExample added" />
+    <MESSAGE value="jdbcrdd examples added" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
+</project>
