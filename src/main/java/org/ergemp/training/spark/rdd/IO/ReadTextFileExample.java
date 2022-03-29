@@ -15,7 +15,7 @@ public class ReadTextFileExample {
         SparkConf conf = new SparkConf().setAppName("RDDExamplefromTextFile").setMaster("local[1]");
         JavaSparkContext jsc = new JavaSparkContext(conf);
 
-        JavaRDD<String> distData = jsc.textFile("resources/airports.dat");
+        JavaRDD<String> distData = jsc.textFile("resources/airlines/airports.dat");
 
         //distData.foreach(in -> System.out.println(in));
 
